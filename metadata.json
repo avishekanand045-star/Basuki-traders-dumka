@@ -1,0 +1,7 @@
+{
+  "name": "Basuki Traders - Premium Men's Clothing Store",
+  "description": "Exclusive men's fashion destination in Dumka, Jharkhand featuring premium ethnic wear, formal suits, casual collections, wedding groom attires, store directions, WhatsApp booking, and AI personal stylist.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
